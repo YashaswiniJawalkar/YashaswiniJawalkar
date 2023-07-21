@@ -3,9 +3,9 @@
 <h3 align="center">💫 Glad to see you here!!!</h3>
 <h3> I'm Yashaswini Jawalkar a final year student pursuing Bachelors in Computer Science Engineering from Srinivasa Ramanujan Institute of Technology. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into Front-End Development and working on Artificial Intellegence and Machine Learning</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashaswinijawalkar&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswinijawalkar" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <br>
-- 🔭 I’m currently working on **Conversational AI(voice AI) in healthcare industry**
+- 🔭 I’m currently working on Conversational AI(voice AI) in healthcare industry
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
 
